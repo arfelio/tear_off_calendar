@@ -34,3 +34,5 @@
 
 config/database.yml
 config/secrets.yml
+
+/config/credentials/development.key
